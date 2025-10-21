@@ -1,4 +1,4 @@
-# hng  Profile API
+#Profile API
 
 A production-ready RESTful API built with Go and Gin that returns user profile information along with random cat facts from an external API.
 
